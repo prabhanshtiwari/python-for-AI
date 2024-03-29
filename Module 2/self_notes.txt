@@ -28,3 +28,55 @@ What is ML?
 ML is the process of teaching machines to get better.
 
 Example --> "Span Email Filter" gets better after some time.
+Example --> "Auto-Correct"
+
+Example of AI/ML: "Smart Traffic Management System" instead of traffic cop/police.
+ML increases the performance og AI.
+ML-Teacher & AI-Child in Playschool
+ML is subset of AI.
+
+Data Scientist?/Data Analyst?
+
+Data Science? --> Future
+Domain Expertise + Data Access + Statistical method= used to make predictions
+Data Science is about Future.
+
+Data Analytics? --> Present
+Take the current Data --> Analyse and create a report on present situation
+Ex.. Data Acience tells "How the company is performing right now?"
+
+These days, data is created in huge amount
+You need to deal with huge amount of data.
+Therefore, a system is needed to deal with this large amount of data.
+
+A common language that we use to talk to computer is "PYTHON"
+Python + Python Libraries --> Important
+
+In this course:
+Python
+OOP
+DataBases : Mysql, Momgodb
+Flask
+Libraries --> Panda, Numpy
+Projects --> Swiggy(Analysing things)
+
+In next 4 weeks, we will cover these entire topics.
+
+Why only Python for AI?
+Because Python is Sweet language
+Python is Easy language
+Most of the resources are available in Python as most people are using this.
+
+How to make best out of this course?
+Your goal should be clear
+If you want ot be job-ready, you can't do it to be average.
+You need to be in top 1% techies
+You need to work on
+    1. comprehensive tech skills
+    2. How do you market yourself?
+
+Best platform to market yourself --> LinkedIn
+Connect to right people.
+
+#top1percenttechieswithvishwa
+
