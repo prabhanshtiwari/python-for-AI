@@ -1,0 +1,28 @@
+Course - Python for AI
+
+AI, ML, Data Science --> Buzz words
+90% students fail to explain these terms.
+We will get to know what these terms are?
+
+About Course --> Calender --> Certification
+
+AI/ML?
+What ?
+Are they same?
+
+AI --> Artificial Intelligence
+Something which is intelligence is able to see the patterns.
+We humans are originally intelligent. At the same time we are lazy.
+What if we try give intelligence to computers?
+Computers are dumb.
+When we train these computer so that these computer start taking decisions, observing patterns like humans.
+It is called Artificial Intelligence.
+
+Examples of AI --> Alexa, Siri, GoogleHome
+
+Basically, we are trying to make computers think like humans, making the machine smarter.
+This is AI.
+
+ML? --> Machine Learning
+What is ML?
+ML is the process of teaching machines to get better.
