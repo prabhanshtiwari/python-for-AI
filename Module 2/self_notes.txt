@@ -26,3 +26,5 @@ This is AI.
 ML? --> Machine Learning
 What is ML?
 ML is the process of teaching machines to get better.
+
+Example --> "Span Email Filter" gets better after some time.
